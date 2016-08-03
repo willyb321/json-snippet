@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+{
+	"name": "cool-module",
+  "version": "0.0.0",
+  "description": "amazing module.",
+  "license": "MIT",
+  "repository": "me/git-repo",
+  "author": {
+    "name": "William Blythe",
+    "email": "wbwilliam7@gmail.com",
+    "url": "tehsuperwilly.tech"
+  }
+  },
+  "bin": "mainfile.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "",
+    "start": ""
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "node-app"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>package</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.json</scope></snippet>
